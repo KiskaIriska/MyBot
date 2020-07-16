@@ -1,2 +1,2 @@
-pyTelegramBotAPI
-googletrans
+pyTelegramBotAPI~=3.7.2
+googletrans~=3.0.0
